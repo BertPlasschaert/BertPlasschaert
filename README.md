@@ -54,4 +54,4 @@ But I hope you'll find something interesting anyway!
 ![Static Badge](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=gray)
 
 ### Disclamers
-![banner](images/brainmade.svg) - No GenAI / LLMs were used in and during the development of this repository.
+[![banner](images/brainmade.svg)](https://brainmade.org/) - No GenAI / LLMs were used in and during the development of this repository.
