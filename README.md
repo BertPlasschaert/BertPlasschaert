@@ -3,7 +3,7 @@
 ###### [Add your own name!](https://github.com/BertPlasschaert/taggable_banner/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.) or discover how I made this [here](TODO).
 <details>
 
-<summary>Taged users</summary>
+<summary>Tagged users</summary>
 
 <!--begin usernames-->
 ###### [BertPlasschaert](https://github.com/BertPlasschaert) on 10/01/2026
@@ -53,5 +53,5 @@ But I hope you'll find something interesting anyway!
 ![Static Badge](https://img.shields.io/badge/htmx-blue?style=for-the-badge&logo=htmx&logoColor=white&labelColor=%233366CC&color=gray)
 ![Static Badge](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=gray)
 
-## Disclamers
+## Disclaimers
 [![banner](images/brainmade.svg)](https://brainmade.org/) - No GenAI / LLMs were used in and during the development of this repository.
