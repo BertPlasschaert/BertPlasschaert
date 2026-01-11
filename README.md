@@ -1,9 +1,9 @@
 ![banner](banner.svg)
 
-[Add your own name!](https://github.com/BertPlasschaert/taggable_banner/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.) or discover how this works [here](TODO).
+###### [Add your own name!](https://github.com/BertPlasschaert/taggable_banner/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.) or discover how I made this [here](TODO).
 <details>
 
-<summary>Users who have tagged the banner</summary>
+<summary>Taged users</summary>
 
 <!--begin usernames-->
 ###### [BertPlasschaert](https://github.com/BertPlasschaert) on 10/01/2026
@@ -13,13 +13,11 @@
 
 </details>
 
-### Intro
+## Hey!
 
-Hey! My name is Bert, I'm a Pipeline TD at Pixel-Nexus.
+My name is Bert, I'm a Pipeline TD at Pixel-Nexus.
 Unfortunatly as is the norm in my line of work most of my repos are under NDA. 🫠
 But I hope you'll find something interesting anyway!
-
-### Blogposts
 
 I wrote a couple of blog-post about [using web frontend frameworks as UIs within 3D applications](https://pixel-nexus.com/using_web_uis_in_maya.html) and [on how to get started with Exendscript](https://pixel-nexus.com/extendscript_hit_the_ground_running.html), which is the Adobe scripting language.
 
