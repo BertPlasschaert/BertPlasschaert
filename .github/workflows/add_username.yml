@@ -29,23 +29,12 @@ jobs:
     - name: "Set up Python"
       uses: actions/setup-python@v6
       with:
-        python-version-file: "pyproject.toml"
-
-    - name: Install uv
-      uses: astral-sh/setup-uv@v7
-
-    - name: Setup python project
-      run: uv sync --locked
-
-    - name: "Set TAGGABLE_BANNER_ROOT"
-      run: echo "TAGGABLE_BANNER_ROOT=$PWD" >> $GITHUB_ENV
-
-    - name: "Set PYTHONPATH"
-      run: echo "PYTHONPATH=$PWD/taggablebanner/python" >> $GITHUB_ENV
+        python-version: '3.10'
+        pip-install: git+https://github.com/BertPlasschaert/taggable_banner@v1.0.2
 
     - id: check
       name: check if name is already used
-      run: uv run python/taggablebanner/cli.py check "$ISSUE_AUTHOR"
+      run: taggablebanner check "$ISSUE_AUTHOR"
 
 
 
@@ -64,13 +53,10 @@ jobs:
     - name: "Set up Python"
       uses: actions/setup-python@v6
       with:
-        python-version-file: "pyproject.toml"
+        python-version-file: "taggablebanner/pyproject.toml"
 
     - name: Install uv
       uses: astral-sh/setup-uv@v7
-
-    - name: Setup python project
-      run: uv sync --locked
 
     - name: "Set TAGGABLE_BANNER_ROOT"
       run: echo "TAGGABLE_BANNER_ROOT=$PWD" >> $GITHUB_ENV
