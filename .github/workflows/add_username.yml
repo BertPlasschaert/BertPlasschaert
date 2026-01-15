@@ -23,8 +23,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v6
-      with:
-        submodules: true
 
     - name: "Set up Python"
       uses: actions/setup-python@v6
@@ -53,19 +51,11 @@ jobs:
     - name: "Set up Python"
       uses: actions/setup-python@v6
       with:
-        python-version-file: "taggablebanner/pyproject.toml"
-
-    - name: Install uv
-      uses: astral-sh/setup-uv@v7
-
-    - name: "Set TAGGABLE_BANNER_ROOT"
-      run: echo "TAGGABLE_BANNER_ROOT=$PWD" >> $GITHUB_ENV
-
-    - name: "Set PYTHONPATH"
-      run: echo "PYTHONPATH=$PWD/taggablebanner/python" >> $GITHUB_ENV
+        python-version: '3.10'
+        pip-install: git+https://github.com/BertPlasschaert/taggable_banner@v1.0.2
 
     - name: add tag
-      run: uv run python/taggablebanner/cli.py add "$ISSUE_AUTHOR"
+      run: taggablebanner add "$ISSUE_AUTHOR"
 
     - name: commit and push updates
       run: |
