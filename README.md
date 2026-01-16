@@ -1,6 +1,6 @@
 ![banner](banner.svg)
 
-###### [Add your own name!](https://github.com/BertPlasschaert/BertPlasschaert/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.) or discover how I made this [here](TODO).
+###### [Add your own name!](https://github.com/BertPlasschaert/BertPlasschaert/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.) or discover [how I made this](https://github.com/BertPlasschaert/taggable_banner).
 <details>
 
 <summary>Tagged users</summary>
@@ -21,7 +21,7 @@ But I hope you'll find something interesting anyway!
 ## Blogposts and write-ups
 - Using web frontend frameworks as UIs within 3D applications. [**here**](https://pixel-nexus.com/using_web_uis_in_maya.html)
 - How to get started with Exendscript (the scripting language used in Adobe products). [**here**](https://pixel-nexus.com/extendscript_hit_the_ground_running.html)
-- The develoment process of the taggable banner. [**here**](TODO)
+- The develoment process of the taggable banner. [**here**](TODO)(TODO)
 
 ## Experience
 
