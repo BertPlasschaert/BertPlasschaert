@@ -45,14 +45,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v6
-      with:
-        submodules: true
 
     - name: "Set up Python"
       uses: actions/setup-python@v6
       with:
-        python-version: '3.10'
-        pip-install: git+https://github.com/BertPlasschaert/taggable_banner@v1.0.2
+        python-version-file: "taggablebanner/pyproject.toml"
 
     - name: add tag
       run: taggablebanner add "$ISSUE_AUTHOR"
@@ -78,10 +75,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v6
-
-    - name: debug
-      run: echo "check status $CHECK"
-
 
     - name: failed checks comment
       if: ${{env.CHECK == 'failure'}}
