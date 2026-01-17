@@ -15,13 +15,13 @@
 ## Hey!
 
 My name is Bert, I'm a Pipeline TD at Pixel-Nexus.
-Unfortunatly as is the norm in my line of work most of my repos are under NDA. 🫠
+Unfortunately as is the norm in my line of work, most of my repos are under NDA. 🫠
 But I hope you'll find something interesting anyway!
 
 ## Blogposts and write-ups
 - Using web frontend frameworks as UIs within 3D applications. [**here**](https://pixel-nexus.com/using_web_uis_in_maya.html)
 - How to get started with Exendscript (the scripting language used in Adobe products). [**here**](https://pixel-nexus.com/extendscript_hit_the_ground_running.html)
-- The develoment process of the taggable banner. [**here**](TODO)(TODO)
+<!--- The develoment process of the taggable banner. [**here**](TODO)(TODO)-->
 
 ## Experience
 
