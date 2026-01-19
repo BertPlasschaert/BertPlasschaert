@@ -1,4 +1,4 @@
-![banner](banner218837.svg)
+![banner](banner943622.svg)
 
 ###### [Add your own name!](https://github.com/BertPlasschaert/BertPlasschaert/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.) or discover [how I made this](https://github.com/BertPlasschaert/taggable_banner).
 <details>
@@ -11,6 +11,7 @@
 ###### [serge1165](https://github.com/serge1165) on 17/01/2026
 ###### [glendon-mooney](https://github.com/glendon-mooney) on 19/01/2026
 ###### [annedol](https://github.com/annedol) on 19/01/2026
+###### [benjaminghys](https://github.com/benjaminghys) on 19/01/2026
 <!--end usernames-->
 ##### Thank you all for adding your username!
 
