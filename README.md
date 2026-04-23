@@ -1,6 +1,6 @@
 ![banner](banner943622.svg)
 
-###### [Add your own name!](https://github.com/BertPlasschaert/BertPlasschaert/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.), or [read about the journey building it.](https://github.com/BertPlasschaert/TaggableBanner/blob/master/writeup/writeup.md)
+###### [Add YOUR name!](https://github.com/BertPlasschaert/BertPlasschaert/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.), or even better add a banner like this [on your own profile.](https://github.com/BertPlasschaert/TaggableBanner)
 <details>
 
 <summary>Tagged users</summary>
@@ -24,9 +24,9 @@ Unfortunately as is the norm in my line of work, most of my repos are under NDA.
 But I hope you'll find something interesting anyway!
 
 ## Blogposts and write-ups
+- The development process of the taggable banner. [**here**](https://github.com/BertPlasschaert/TaggableBanner/blob/master/writeup/writeup.md)
 - Using web frontend frameworks as UIs within 3D applications. [**here**](https://pixel-nexus.com/using_web_uis_in_maya.html)
 - How to get started with Exendscript (the scripting language used in Adobe products). [**here**](https://pixel-nexus.com/extendscript_hit_the_ground_running.html)
-- The development process of the taggable banner. [**here**](https://github.com/BertPlasschaert/TaggableBanner/blob/master/writeup/writeup.md)
 
 ## Experience
 
