@@ -26,7 +26,7 @@ But I hope you'll find something interesting anyway!
 ## Blogposts and write-ups
 - Using web frontend frameworks as UIs within 3D applications. [**here**](https://pixel-nexus.com/using_web_uis_in_maya.html)
 - How to get started with Exendscript (the scripting language used in Adobe products). [**here**](https://pixel-nexus.com/extendscript_hit_the_ground_running.html)
-- The develoment process of the taggable banner. [**here**](https://github.com/BertPlasschaert/TaggableBanner/blob/master/writeup/writeup.md)
+- The development process of the taggable banner. [**here**](https://github.com/BertPlasschaert/TaggableBanner/blob/master/writeup/writeup.md)
 
 ## Experience
 
