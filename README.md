@@ -1,4 +1,4 @@
-![banner](banner519477.svg)
+![banner](banner036916.svg)
 
 ###### [Add YOUR name!](https://github.com/BertPlasschaert/BertPlasschaert/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.), or even better add a banner like this [on your own profile.](https://github.com/BertPlasschaert/TaggableBanner)
 <details>
@@ -18,6 +18,7 @@
 ###### [telosGit](https://github.com/telosGit) on 25/04/2026
 ###### [Snowpire](https://github.com/Snowpire) on 27/04/2026
 ###### [Ilikegeodes](https://github.com/Ilikegeodes) on 02/05/2026
+###### [algojogacor](https://github.com/algojogacor) on 09/05/2026
 <!--end usernames-->
 ##### Thank you all for adding your username!
 
